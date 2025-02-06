@@ -1,4 +1,4 @@
-package com.rideshare.service.library;
+package com.rideshare.service.lib;
 
 import org.springframework.stereotype.Component;
 
